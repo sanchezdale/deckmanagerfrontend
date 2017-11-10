@@ -1,0 +1,14 @@
+.navbar .nav > li > a {
+  float: none;
+  line-height: 19px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  color:  #dddddd;
+}
+.navbar .nav > li > a:hover {
+  float: none;
+  line-height: 19px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  color:  #ffffff;
+}
